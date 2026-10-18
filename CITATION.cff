@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Personalized Health Alerts for Preventive Care Using ECG Data: A Comparative Study of Random Forest and LSTM"
+authors:
+  - family-names: Nour
+    given-names: Najma
+    affiliation: "Department of Artificial Intelligence, Canadian University Dubai"
+  - family-names: Elmessiry
+    given-names: Haythem
+    affiliation: "Department of Artificial Intelligence, Canadian University Dubai"
+repository-code: "https://github.com/Najma-Abdulkarim-Nor/ecg-health-alerts-rf-lstm"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-18
+keywords:
+  - ECG classification
+  - LSTM
+  - Random Forest
+  - SMOTE
+  - wearable health monitoring

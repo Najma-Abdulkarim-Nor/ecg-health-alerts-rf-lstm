@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Project-specific ---
+# Dataset (download separately, see data/README.md)
+data/*.csv
+data/*.zip
+# Trained model artifacts
+results/models/
+*.h5
+*.keras
+*.pkl
+*.joblib
+results/metrics.json
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
